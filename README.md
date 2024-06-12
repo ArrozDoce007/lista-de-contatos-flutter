@@ -5,3 +5,4 @@ Projeto em flutter que faz conexão com um banco de dados local(mysql) atraves d
 opções de criacao de contatos com numero, email e nome
 
 deletear contatos e editar contatos
+#Api flask se enconta na pasta lib/src com nome de "app.py"
